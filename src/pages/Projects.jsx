@@ -4,8 +4,8 @@ import Header from '../components/Header';
 import { PROJECTS_DATA } from '../data/projectsData';
 import portrait from '../assets/portrait.png';
 
-const projectsDescription = 'Explore projects by Wilhelmina Vanderpool, a Full Stack Developer and Computer Science Student.';
-const projectsKeywords = 'Wilhelmina Vanderpool, MinasaurV, Computer Science, Full Stack Developer, JavaScript, React, Portfolio, OTC, Tech2Gether, Student, Programmer, Developer, Pixel Art, 3D Printing, C#, Lua, Java, Tailwind, Node.js, Express, .NET MAUI';
+const projectsDescription = 'Explore projects by Mina Conyers, a Full Stack Developer and Computer Science Student.';
+const projectsKeywords = 'Mina Conyers, MinasaurV, Computer Science, Full Stack Developer, JavaScript, React, Portfolio, OTC, Tech2Gether, Student, Programmer, Developer, Pixel Art, 3D Printing, C#, Lua, Java, Tailwind, Node.js, Express, .NET MAUI';
 
 export default function Projects() {
   const projects = PROJECTS_DATA.projects;

@@ -5,7 +5,7 @@ import Header from '../components/Header';
 import teapotImg from '../assets/Teapot.png';
 
 const teapotDescription = 'The server refuses to brew coffee because it is a teapot.';
-const teapotKeywords = 'Wilhelmina Vanderpool, MinasaurV, Computer Science, Full Stack Developer, JavaScript, React, Portfolio, OTC, Tech2Gether, Student, Programmer, Developer, Pixel Art, 3D Printing, C#, Lua, Java, Tailwind, Node.js, Express, .NET MAUI, Teapot, 418';
+const teapotKeywords = 'Mina Conyers, MinasaurV, Computer Science, Full Stack Developer, JavaScript, React, Portfolio, OTC, Tech2Gether, Student, Programmer, Developer, Pixel Art, 3D Printing, C#, Lua, Java, Tailwind, Node.js, Express, .NET MAUI, Teapot, 418';
 
 export default function Teapot() {
   return (

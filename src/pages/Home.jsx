@@ -11,8 +11,8 @@ import { SiLua, SiTailwindcss, SiExpress, SiDotnet, SiMysql, SiMongodb, SiDjango
 import { TbBrandCSharp } from "react-icons/tb";
 import axios from 'axios';
 
-const homeDescription = 'Wilhelmina Vanderpool is a Full Stack Developer at Cold Brew Code and a Computer Science student at Ozarks Tech. Explore her projects, experience, and ways to connect.';
-const homeKeywords = 'Wilhelmina Vanderpool, MinasaurV, Full Stack Developer, Computer Science, Ozarks Tech, Cold Brew Code, React, JavaScript, Portfolio, Developer';
+const homeDescription = 'Mina Conyers is a Full Stack Developer at Cold Brew Code and a Computer Science student at Ozarks Tech. Explore her projects, experience, and ways to connect.';
+const homeKeywords = 'Mina Conyers, MinasaurV, Full Stack Developer, Computer Science, Ozarks Tech, Cold Brew Code, React, JavaScript, Portfolio, Developer';
 
 const skillSections = [
   {
@@ -152,12 +152,12 @@ export default function Home() {
         <main id="main-content" tabIndex="-1" className="flex flex-col items-center justify-center flex-1 w-full px-4 py-12 md:py-20 z-10 relative">
           <img
             src={portrait}
-            alt="Portrait of Wilhelmina Vanderpool"
+            alt="Portrait of Mina Conyers"
             className="w-32 h-32 md:w-48 md:h-48 rounded-full shadow-lg mb-6 object-cover border-4 border-transparent bg-gradient-to-br from-purple-400 via-indigo-500 to-teal-400 p-1 image-render-pixelated animate-spin-in"
             style={{ backgroundClip: 'padding-box, border-box', backgroundOrigin: 'border-box' }}
           />
           <div className="flex items-center justify-center gap-3 flex-wrap">
-            <h1 className="text-3xl md:text-4xl font-bold text-white mb-0 text-center">Wilhelmina Vanderpool</h1>
+            <h1 className="text-3xl md:text-4xl font-bold text-white mb-0 text-center">Mina Conyers</h1>
             <a
               href="https://en.pronouns.page/@minasaur"
               target="_blank"

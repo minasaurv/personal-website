@@ -3,8 +3,8 @@ import Footer from '../components/Footer';
 import Bubbles from '../components/Bubbles';
 import portrait from '../assets/portrait.png';
 
-const apiDocsDescription = 'API documentation by Wilhelmina Vanderpool';
-const apiDocsKeywords = 'Wilhelmina Vanderpool, MinasaurV, Computer Science, Full Stack Developer, JavaScript, React, Portfolio, OTC, Tech2Gether, Student, Programmer, Developer, API, Docs';
+const apiDocsDescription = 'API documentation by Mina Conyers';
+const apiDocsKeywords = 'Mina Conyers, MinasaurV, Computer Science, Full Stack Developer, JavaScript, React, Portfolio, OTC, Tech2Gether, Student, Programmer, Developer, API, Docs';
 
 export default function ApiDocs() {
   return (

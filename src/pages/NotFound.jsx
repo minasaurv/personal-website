@@ -5,7 +5,7 @@ import Header from '../components/Header';
 import warningIcon from '../assets/warn.png';
 
 const notFoundDescription = 'The page you are looking for does not exist.';
-const notFoundKeywords = 'Wilhelmina Vanderpool, MinasaurV, Computer Science, Full Stack Developer, JavaScript, React, Portfolio, OTC, Tech2Gether, Student, Programmer, Developer';
+const notFoundKeywords = 'Mina Conyers, MinasaurV, Computer Science, Full Stack Developer, JavaScript, React, Portfolio, OTC, Tech2Gether, Student, Programmer, Developer';
 
 export default function NotFound() {
   return (
